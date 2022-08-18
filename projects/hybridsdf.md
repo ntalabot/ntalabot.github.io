@@ -4,6 +4,8 @@ layout: blank
 
 <h1 style="text-align: center;"> HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation </h1>
 
+/!\ Under construction! /!\
+
 <!-- <h2 style="text-align: center;"><a class="page-link" href="https://senakicir.github.io/">Sena Kiciroglu</a><sup>1</sup>, <a class="page-link" href="https://weiwangtrento.github.io/">Wei Wang</a><sup>1,2</sup>, <a class="page-link" href="https://people.epfl.ch/mathieu.salzmann">Mathieu Salzmann</a><sup>1,3</sup>, <a class="page-link" href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a><sup>1</sup></h2>
 
 <h3 style="text-align: center;"> 

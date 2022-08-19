@@ -8,4 +8,4 @@
 layout: home
 ---
 
-/!\ Under construction! /!\
+<h1 style="text-align:center;"> <b>/!\ Under construction! /!\</b> </h1>

@@ -2,9 +2,10 @@
 layout: blank
 ---
 
-<h1 style="text-align: center;"> HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation </h1>
-
+<!-- TODO: REMOVE ONCE FINISHED! -->
 <h1 style="text-align:center;"> <b>/!\ Under construction! /!\</b> </h1>
+
+<h1 style="text-align: center;"> HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation </h1>
 
 <h2 style="text-align: center;">
     <a class="page-link" href="https://subeeshvasu.github.io/">Subeesh Vasu</a><sup>*,1</sup>,
@@ -17,8 +18,12 @@ layout: blank
 
 <h3 style="text-align: center;"> 
     <sup>*</sup> Equal contributions <br>
-    <sup>1</sup> CVLab, EPFL <br>
-    <sup>2</sup> Neural concept
+    <!-- <sup>1</sup> CVLab, EPFL 
+    <sup>2</sup> Neural concept -->
+    <div class="centered_div big">
+        <div class="div_sidebyside"><sup>1</sup> CVLab, EPFL</div>
+        <div class="div_sidebyside"><sup>2</sup> Neural concept</div>
+    </div>
 </h3>
 
 <div class="centered_div big">
@@ -29,7 +34,7 @@ layout: blank
 <div class="centered_div big" style="padding-top:25px; padding-bottom:25px;">
     <!-- <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Paper</a></div> -->
     <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2109.10767" style="color: #fdfdfd;">arXiv</a></div>
-    <!-- <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div> -->
+    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">Video</p></div>
 </div>
 
 <img src="/projects/hybridsdf/images/mixer_clip.gif" style="display:block; margin:auto; width: 50%; max-width: 50%; height:auto;">
@@ -70,7 +75,7 @@ TODO: Blablabla.
 
 
 
-<h3> BibTeX </h3>
+<h2> BibTeX </h2>
   If you find our work useful, please cite it as:
 
     @inproceedings{vasutalabot2022hybridsdf,

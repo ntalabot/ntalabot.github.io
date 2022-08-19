@@ -5,3 +5,166 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+img[alt="small_video"] { 
+    max-width:  400px; 
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#bloglink{
+    text-align: center;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#pp{
+    max-width: 300px;
+}
+
+#photo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Split the screen in half */
+.split {
+    display: block;
+    height: 100%;
+    width: 50%;
+  }
+  
+  /* Control the left side */
+.left {
+    float:left;
+    width: 48%;
+    margin:5px; 
+}
+  
+/* Control the right side */
+.right {
+    float:right;
+    width: 48%; 
+    margin:5px; 
+}
+
+
+.youtubevid{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+}
+
+
+
+.spanswhole {
+    width:100%; 
+  }
+
+/* Control the left side */
+.leftless {
+float: left;
+width: 28%;
+margin: 5px; }
+
+/* Control the right side */
+.rightmore {
+float: right;
+width: 66%;
+margin: 5px; 
+}
+
+#pub_p {
+align-self:center;
+max-width: 300px; 
+}
+
+#pub_p_small {
+align-self:center;
+max-width: 250px; 
+}
+
+.centered_div {
+display: block;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+.big{
+width: 100%;
+}
+
+.small {
+width: 25%;
+}
+
+.div_rounded_corners {
+display: inline-block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 30px;
+background: #6c6a6a;
+text-align: center;
+width: 90px;
+height: 35px;
+font-size: large;
+margin-top: 20px;
+padding-top: 10px;
+}
+
+.div_sidebyside{
+display: inline-block;
+margin-left: auto;
+margin-right: 15px;
+width: 20%;
+}
+
+.div_text {
+display: block;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align:justify;
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 15px;
+}
+    
+.div_gray {
+background: #f1f1f1;
+}
+
+.div_aligned {
+display: flex;
+align-items: center;
+}
+    
+
+.hr_style {
+    border: 2px solid rgba(199, 196, 196, 0.686);
+    border-radius: 2px;
+}
+
+.fig_caption {
+    color:#6c6a6a;
+    text-align: center;
+    font-size: 12px;
+    display: block;
+    margin: auto;
+}

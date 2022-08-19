@@ -16,56 +16,54 @@ layout: blank
 </h2>
 
 <h3 style="text-align: center;"> 
-    <sup>*</sup> Clearspace, Switzerland <br>
+    <sup>*</sup> Equal contributions <br>
     <sup>1</sup> CVLab, EPFL <br>
     <sup>2</sup> Neural concept 
 </h3>
 
 <div class="centered_div big">
-    <div class="div_sidebyside"><img src="hybridsdf/images/EPFL_Logo_Digital_RGB_PROD.eps"></div>
+    <div class="div_sidebyside"><img src="hybridsdf/images/EPFL_logo.png"></div>
     <div class="div_sidebyside"><img src="hybridsdf/images/Neural_Concept_logo.png"></div>
 </div>
 
-<!-- <div class="centered_div big" style="padding-top:25px;">
-<div class="div_rounded_corners"><a href="https://arxiv.org/pdf/2012.04731.pdf" style="color: #fdfdfd;">arXiv</a></div>
-<div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Code</a></div>
-<div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div>
+<div class="centered_div big" style="padding-top:25px;">
+    <!-- <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Paper</a></div> -->
+    <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2109.10767" style="color: #fdfdfd;">arXiv</a></div>
+    <!-- <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div> -->
 </div>
 
-<img src="https://lh4.googleusercontent.com/wHWR_HpkrH4UhS55Q6eY1wFc_SotTWEYkWvKqSTIVhPTkZ4SYMPHwEEEYE1W1n8XjjY=w2400" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
+<img src="hybridsdf/images/mixer_clip.gif" style="display:block; margin:auto; width: 75%; max-width: 75%; height:auto;">
 
 <div class="div_text">
-<h1 style="text-align: center;">Abstract</h1>
-Long term human motion prediction is essential in safety-critical applications such as human-robot interaction and autonomous driving. In this paper we show that to achieve long term forecasting, predicting human pose at every time instant is unnecessary. Instead, it is more effective to predict a few keyposes and approximate intermediate ones by interpolating the keyposes. <br><br>
-
-We demonstrate that our approach enables us to predict realistic motions for up to 5 seconds in the future, which is far longer than the typical 1 second encountered in the literature. Furthermore, because we model future keyposes probabilistically, we can generate multiple plausible future motions by sampling at inference time. Over this extended time period, our predictions are more realistic, more diverse and better preserve the motion dynamics than those state-of-the-art methods yield.
+    <h1 style="text-align: center;">Abstract</h1>
+    Deep implicit surfaces excel at modeling generic shapes but do not always capture the regularities present in manufactured objects, which is something simple geometric primitives are particularly good at. In this paper, we propose a representation combining latent and explicit parameters that can be decoded into a set of deep implicit and geometric shapes that are consistent with each other. As a result, we can effectively model both complex and highly regular shapes that coexist in manufactured objects. This enables our approach to manipulate 3D shapes in an efficient and precise manner.
 </div>
 
 <hr class="hr_style">
 
 <div class="div_text div_gray">
 <div style="width: 100%; display:inline-block;">
-<h3> Long Term Motion Prediction </h3>
-
-Motion prediction is an essential component in safety-critical applications, such as human-robot interaction and autonomous driving. Most existing methods have accurate pose predictions of up to 1 second. Our work extends this time horizon to <b>5 seconds</b>, by following a different approach. Instead of regressing a pose at every future timestep, we aim to predict the next "keypose" in the sequence via a classification scheme.</div>
+<h3> TODO 1: Text only </h3>
+TODO: Blablabla.
+</div>
 </div>
 
 <div class="div_text div_gray">
-<h3> Keyposes </h3>
+<h3> TODO 2: Picture and text </h3>
 
-<div style="width: 80%; display:block; margin:auto; padding-bottom:2px;"><img style="margin:5px; border-radius:10px;" src="https://lh6.googleusercontent.com/Z_Sa7pVsInhixF5A-tA2VPx7VYL_s841GFPpvDdoPWa_5uw_74VI-1ptQiaz5dxhsvA=w2400"></div>
-<p class="fig_caption" style="width: 80%; padding-bottom:10px"> Figure: Distribution of keyposes in sequence. Plots show the x, y, and z coordinates of a single joint across time.</p>
+<div style="width: 80%; display:block; margin:auto; padding-bottom:2px;"><img style="margin:5px; border-radius:10px;" src="hybridsdf/images/EPFL_logo.png"></div>
+<p class="fig_caption" style="width: 80%; padding-bottom:10px"> Figure: Placeholder for a picture.</p>
 <div style="width: 100%; display:inline-block;">
-Human motion follows patterns that are well-represented by a <b>few essential poses</b> in the sequence. We call such poses "keyposes". By interpolating between the keyposes, we can reconstruct the original sequence. Therefore, it is sufficient to only predict the keyposes in the sequence. We extract the keyposes by determining the poses which yield <b>minimum L2 error</b> when used to reconstruct the original sequence.</div>
+TODO: Blablabla.
+</div>
 </div>
 
 <div class="div_text div_gray">
 <div class="div_aligned">
-<div style="width: 35%; display:inline-block; vertical-align:middle;"><img style="margin:5px; width:85%;border-radius:10px;" src="https://lh6.googleusercontent.com/2W59IspHQFr65kN4HIZDBfRYmjRuUTx6a62-Tz8nVKC_3x3swflRTeVAJZupeOH062s=w2400"> </div>
+<div style="width: 35%; display:inline-block; vertical-align:middle;"><img style="margin:5px; width:85%;border-radius:10px;" src="hybridsdf/images/EPFL_logo.png"> </div>
 <div style="width: 65%; display:inline-block;"> 
-<h3 style="text-align: right;"> Predicting Keyposes</h3>
-
-We cluster and label the keyposes and turn motion prediction into a <b>classification</b> problem. This shifts the focus on the transition from one keypose label to another and avoid accumulating errors. We have designed a GRU based framework for keypose prediction. Moreover, by sampling the predicted logits during inference we can generate <b>diverse future motions</b>. 
+<h3 style="text-align: right;"> TODO 3: Side-by-side picture and text </h3>
+TODO: Blablabla.
 </div>
 </div>
 </div>
@@ -75,9 +73,9 @@ We cluster and label the keyposes and turn motion prediction into a <b>classific
 <h3> BibTeX </h3>
   If you find our work useful, please cite it as:
 
-    @inproceedings{kiciroglu2022keyposes,
-      author = {Kiciroglu, Sena and Wang, Wei and Salzmann, Mathieu and Fua, Pascal},
+    @inproceedings{vasutalabot2022hybridsdf,
+      author = {Vasu, Subeesh and Talabot, Nicolas and Lukoianov, Artem and Baqué, Pierre and Donier, Jonathan and Fua, Pascal},
       booktitle = {3DV},
-      title = {Long Term Motion Prediction Using Keyposes},
+      title = {HybridSDF},
       year = {2022}
-    } -->
+    }

@@ -6,21 +6,27 @@ layout: blank
 
 /!\ Under construction! /!\
 
-<!-- <h2 style="text-align: center;"><a class="page-link" href="https://senakicir.github.io/">Sena Kiciroglu</a><sup>1</sup>, <a class="page-link" href="https://weiwangtrento.github.io/">Wei Wang</a><sup>1,2</sup>, <a class="page-link" href="https://people.epfl.ch/mathieu.salzmann">Mathieu Salzmann</a><sup>1,3</sup>, <a class="page-link" href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a><sup>1</sup></h2>
+<h2 style="text-align: center;">
+    <a class="page-link" href="https://subeeshvasu.github.io/">Subeesh Vasu</a><sup>*,1</sup>,
+    <a class="page-link" href="https://ntalabot.github.io/">Nicolas Talabot</a><sup>*,1</sup>, 
+    <a class="page-link" href="https://scholar.google.com/citations?user=A9tNPiQAAAAJ&hl=en">Artem Lukoianov</a><sup>1,2</sup>, 
+    <a class="page-link" href="https://scholar.google.com/citations?user=u56iZPkAAAAJ&hl=en">Pierre Baqué</a><sup>2</sup>, 
+    <a class="page-link" href="https://scholar.google.com/citations?user=3hoYiLAAAAAJ&hl=en">Jonathan Donier</a><sup>2</sup>, 
+    <a class="page-link" href="https://people.epfl.ch/pascal.fua?lang=en">Pascal Fua</a><sup>1</sup>
+</h2>
 
 <h3 style="text-align: center;"> 
-<sup>1</sup> CVLab, EPFL, Switzerland <br>
-<sup>2</sup> MHUG, University of Trento, Italy <br>
-<sup>3</sup> Clearspace, Switzerland </h3>
+    <sup>*</sup> Clearspace, Switzerland <br>
+    <sup>1</sup> CVLab, EPFL <br>
+    <sup>2</sup> Neural concept 
+</h3>
 
 <div class="centered_div big">
-
-<div class="div_sidebyside"><img src="https://lh4.googleusercontent.com/7uTSvpyjHR-PdHWJzORYi2VZIsv1D5H4Ocnswk0zVJ8P7n5xc-c6KGNUQRN6ni8dNGA=w2400"></div>
-<div class="div_sidebyside"><img src="https://lh5.googleusercontent.com/ZB88A6mvFp-4O-zGKMGNDU1FV5H5QA8_n8qvWt7eyLa_rRpwJKYQ8r4Kv47xZMSRtco=w2400"></div>
-<div class="div_sidebyside"><img src="https://lh6.googleusercontent.com/8u5qOkDzExfHNz5YS-AInl5nVgMNgngcU0S-wM0wkEOGXsmQKQo3kSqq2HEA2-Hdfv8=w2400"></div>
+    <div class="div_sidebyside"><img src="hybridsdf/images/EPFL_Logo_Digital_RGB_PROD.eps"></div>
+    <div class="div_sidebyside"><img src="hybridsdf/images/Neural_Concept_logo.png"></div>
 </div>
 
-<div class="centered_div big" style="padding-top:25px;">
+<!-- <div class="centered_div big" style="padding-top:25px;">
 <div class="div_rounded_corners"><a href="https://arxiv.org/pdf/2012.04731.pdf" style="color: #fdfdfd;">arXiv</a></div>
 <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Code</a></div>
 <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Video</a></div>

@@ -4,7 +4,7 @@ layout: blank
 
 <h1 style="text-align: center;"> HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation </h1>
 
-/!\ Under construction! /!\
+<h1 style="text-align:center;"> /!\ Under construction! /!\ </h1>
 
 <h2 style="text-align: center;">
     <a class="page-link" href="https://subeeshvasu.github.io/">Subeesh Vasu</a><sup>*,1</sup>,
@@ -74,8 +74,8 @@ TODO: Blablabla.
   If you find our work useful, please cite it as:
 
     @inproceedings{vasutalabot2022hybridsdf,
-      author = {Vasu, Subeesh and Talabot, Nicolas and Lukoianov, Artem and Baqué, Pierre and Donier, Jonathan and Fua, Pascal},
-      booktitle = {3DV},
-      title = {HybridSDF},
-      year = {2022}
+      author = {Vasu, Subeesh and Talabot, Nicolas and Lukoianov, Artem and Baqu\'e, Pierre and Donier, Jonathan and Fua, Pascal},
+      title = {HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation},
+      booktitle = 3DV,
+      year = 2022
     }

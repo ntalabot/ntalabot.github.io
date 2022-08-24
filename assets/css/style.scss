@@ -154,11 +154,28 @@ background: #f1f1f1;
 display: flex;
 align-items: center;
 }
+
+.div_refs {
+  display: block;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align:left;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border-radius: 0px;
+}
     
 
 .hr_style {
     border: 2px solid rgba(199, 196, 196, 0.686);
     border-radius: 2px;
+}
+
+.hr_style_thin {
+  border: 1px solid rgba(199, 196, 196, 0.686);
+  border-radius: 2px;
 }
 
 .fig_caption {

@@ -1,5 +1,6 @@
 ---
 layout: blank
+title: "HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation"
 permalink: /hybridsdf/
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: blank
+permalink: /hybridsdf/
 ---
 
-<h1 style="text-align: center;"> HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation </h1>
+<h1 style="text-align: center;">HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation</h1>
 
 <h2 style="text-align: center;">
     <a class="page-link" href="https://subeeshvasu.github.io/">Subeesh Vasu</a><sup>*,1</sup>,

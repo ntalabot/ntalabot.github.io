@@ -17,8 +17,6 @@ permalink: /hybridsdf/
 
 <h3 style="text-align: center;"> 
     <sup>*</sup> Equal contributions <br>
-    <!-- <sup>1</sup> CVLab, EPFL 
-    <sup>2</sup> Neural concept -->
     <div class="centered_div big">
         <div class="div_sidebyside"><sup>1</sup> CVLab, EPFL</div>
         <div class="div_sidebyside"><sup>2</sup> Neural concept</div>
@@ -85,13 +83,12 @@ permalink: /hybridsdf/
 </div>
 
 
-<!-- TODO: Gif of cars that is manipulated (first x, then z translation, then radius) -->
 <div class="div_text div_gray">
     <div class="div_aligned">
-    <div style="width: 42%; display:inline-block; vertical-align:middle; margin-right:3%;"><img style="margin:5px; width:100%;border-radius:10px;" src="/projects/hybridsdf/images/manipulation.gif"> </div>
-    <div style="width: 55%; display:inline-block;"> 
+    <div style="width: 47%; display:inline-block; vertical-align:middle; margin-right:3%;"><img style="margin:5px; width:100%;border-radius:10px;" src="/projects/hybridsdf/images/manipulation_car.gif"> </div>
+    <div style="width: 50%; display:inline-block;"> 
     <h3 style="text-align: right;"> Parametric Manipulation </h3>
-    Using <i>HybridSDF</i>, one can manipulate 3D objects by directly editing the geometric parameters <b>S</b>, <b>R</b>, and <b>T</b> and then decoding them into a new shape. The disentanglement of the parameter space makes it easy to define these specifications for several parts and have the rest of the object adapt to them. Moreover, it requires no optimization and is therefore fast and exact.
+    Using <i>HybridSDF</i>, one can manipulate 3D objects by directly editing the geometric parameters <b>S</b>, <b>R</b>, and <b>T</b>. The disentanglement of the parameter space makes it easy to define these specifications for several parts and have the rest of the object adapts to them. Moreover, the manipulation requires no optimization and is therefore fast and exact.
     </div>
     </div>
 </div>
@@ -113,14 +110,14 @@ If you find our work useful, please cite it as:
 <!-- References -->
 <h3> References </h3>
 <div class="div_refs">
-    <div class="div_aligned">
-    <div style="width: 13%; display:inline-block;">[<i>DeepSDF</i>]</div>
+    <div class="div_aligned_top">
+    <div style="width: 12%; display:inline-block; text-align:right; margin-right:1%;">[<i>DeepSDF</i>]</div>
     <div style="width: 87%; display:inline-block;">J. J. Park, P. Florence, J. Straub, R. A. Newcombe, and S. Lovegrove. DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation. In <i>Conference on Computer Vision and Pattern Recognition</i>, 2019.</div>
     </div>
 </div>
 <div class="div_refs">
-    <div class="div_aligned">
-    <div style="width: 13%; display:inline-block;">[<i>NeuralParts</i>]</div>
+    <div class="div_aligned_top">
+    <div style="width: 12%; display:inline-block; text-align:right; margin-right:1%;">[<i>NeuralParts</i>]</div>
     <div style="width: 87%; display:inline-block;">D. Paschalidou, A. Katharopoulos, A. Geiger, and S. Fidler. Neural Parts: Learning Expressive 3D Shape Abstractions with
 Invertible Neural Networks. In <i>Conference on Computer Vision and Pattern Recognition</i>, pages 3204--3215, 2021.</div>
     </div>

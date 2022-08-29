@@ -28,11 +28,21 @@ permalink: /hybridsdf/
     <div class="div_sidebyside"><img src="/projects/hybridsdf/images/Neural_Concept_logo.png"></div>
 </div>
 
-<div class="centered_div big" style="padding-top:5px; padding-bottom:25px;">
-    <!-- <div class="div_rounded_corners"><a href="" style="color: #fdfdfd;">Paper</a></div> -->
-    <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2109.10767" style="color: #fdfdfd;">arXiv</a></div>
-    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">Dataset</p></div>
-    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">Video</p></div>
+<h2 style="text-align: center; padding-top:10px; font-weight:bold;">3DV 2022</h2>
+
+<div class="centered_div big" style="padding-bottom:20px;">
+    <!-- <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
+        <i class="fa-solid fa-file-pdf fa-sm"></i> Paper
+    </p></div> -->
+    <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2109.10767" style="color: #fdfdfd;">
+        <i class="ai ai-arxiv"></i> arXiv
+    </a></div>
+    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
+        <i class="fa-solid fa-folder fa-sm"></i> Data
+    </p></div>
+    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
+        <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Video
+    </p></div>
 </div>
 
 <img src="/projects/hybridsdf/images/mixer_clip.gif" style="display:block; margin:auto; width: 50%; max-width: 50%; height:auto;">

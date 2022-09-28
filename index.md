@@ -10,4 +10,6 @@ layout: home
 
 <h1 style="text-align:center;"> <b>/!\ Under construction! /!\</b> </h1>
 
+Meanwhile, you can check my EPFL <a href="https://people.epfl.ch/nicolas.talabot?lang=en">page</a>, or Google <a href="https://scholar.google.com/citations?user=f2LbcbAAAAAJ&hl=en">scholar</a>.
+
 For HybridSDF, please refer to its project <a href="/hybridsdf">page</a>.

@@ -31,18 +31,18 @@ permalink: /hybridsdf/
 <h2 style="text-align: center; padding-top:10px; font-weight:bold;">3DV 2022</h2>
 
 <div class="centered_div big" style="padding-bottom:20px;">
-    <!-- <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
-        <i class="fa-solid fa-file-pdf fa-sm"></i> Paper
-    </p></div> -->
     <div class="div_rounded_corners"><a href="https://arxiv.org/abs/2109.10767" style="color: #fdfdfd;">
         <i class="ai ai-arxiv"></i> arXiv
     </a></div>
+    <!-- <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
+        <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code
+    </p></div> -->
     <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
         <i class="fa-solid fa-folder fa-sm"></i> Data
     </p></div>
-    <div class="div_rounded_corners" style="background: #acaaaa"><p style="color: #fdfdfd;">
+    <div class="div_rounded_corners"><a href="https://www.youtube.com/watch?v=vkMtn5Q446E&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=9" style="color: #fdfdfd;">
         <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Video
-    </p></div>
+    </a></div>
 </div>
 
 <img src="/projects/hybridsdf/images/mixer_clip.gif" style="display:block; margin:auto; width: 50%; max-width: 50%; height:auto;">
@@ -64,9 +64,9 @@ permalink: /hybridsdf/
     <ul>
         <li><b>Generic</b> primitives that may have arbitrarily complex shapes. Their SDFs are computed by neural networks; they are therefore purely deep implicit surfaces.</li>
         <li><b>Geometric</b> primitives, such as spheres and cylinders. Their SDFs are computed analytically given some geometric parameters.</li>
-        <li><b>Geometry-assisted</b> primitives that resembles geometric ones but can deviate from them, such as car wheels that are almost but not quite cylinders. Their SDFs are computed by neural networks but are constrained to be similar to those of the corresponding geometries.</li>
+        <li><b>Geometry-assisted</b> primitives that resemble geometric ones but can deviate from them, such as car wheels that are almost but not quite cylinders. Their SDFs are computed by neural networks but are constrained to be similar to those of the corresponding geometries.</li>
     </ul>
-    The number of primitives depends on the part decomposition of the shapes and, in practice, are known to the engineers performing the design. Parts with strong regularities should be represented by either geometric or geometry-assisted primitives, while the more complex ones should be generic primitives.
+    The number of primitives depends on the part decomposition of the shapes and, in practice, is known to the engineers performing the design. Parts with strong regularities should be represented by either geometric or geometry-assisted primitives, while the more complex ones should be generic primitives.
     </div>
 </div>
 
@@ -81,7 +81,6 @@ permalink: /hybridsdf/
 </div>
 
 
-<!-- TODO: add cars with bad wheels for baselines -->
 <div class="div_text div_gray">
     <div class="div_aligned">
     <div style="width: 42%; display:inline-block;"> 

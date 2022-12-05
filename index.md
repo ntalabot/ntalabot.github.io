@@ -10,7 +10,7 @@ layout: home
 
 <div class="div_aligned"> 
     <div class="split leftless">
-        <img src="/assets/images/photo.jpg">
+        <img style="width=100%" src="/assets/images/photo.jpg">
     </div>
     <div class="split rightmore">
         <p>

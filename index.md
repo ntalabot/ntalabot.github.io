@@ -47,20 +47,21 @@ layout: home
     </div>
 </div>
 
+<!-- AxoID, Nature Neuroscience 2022 -->
 <div class="centered_div medium">
     <hr class="hr_style_thin">
 </div>
-<!-- TODO: AxoID, Nature Neuroscience 2022 -->
 <div class="div_text">
     <div class="div_aligned">
     <div style="width: 30%; display:inline-block; vertical-align:middle; margin-right:3%;">
         <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/axoid.png">
     </div>
     <div style="width: 67%; display:inline-block;"> 
-        <h3 style="text-align: left;"> Ascending neurons convey behavioral state to integrative sensory and action selection centers in the brain </h3>
-        <p>Chin-Lin Chen, Florian Aymanns, Ryo Minegishi, Victor D.V. Matsuda, <b>Nicolas Talabot</b>, Semih Günel, Barry J. Dickson, Pavan Ramdya</p>
-        <p><i>Nature Neuroscience (Accepted)</i></p>
-        <p><a href="https://www.biorxiv.org/content/10.1101/2022.02.09.479566v1">[bioRxiv]</a></p>
+        <h3 style="text-align: left;"> Ascending neurons convey behavioral state to integrative sensory and action selection brain regions </h3>
+        <p>Chin-Lin Chen, Florian Aymanns, Ryo Minegishi, Victor D. V. Matsuda, <b>Nicolas Talabot</b>, Semih Günel, Barry J. Dickson, Pavan Ramdya</p>
+        <p><i>Nature Neuroscience</i></p>
+        <p><a href="https://www.nature.com/articles/s41593-023-01281-z">[Nature]</a>
+           <a href="https://www.nature.com/articles/s41593-023-01281-z.pdf">[PDF]</a></p>
         <!-- <p></p> -->
         </div>
     </div>

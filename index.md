@@ -31,6 +31,26 @@ layout: home
 <h1 style="text-align:center;"> <b>Publications</b> </h1>
 
 
+<!-- NSDUDF, ECCV 2024 -->
+<div class="div_text">
+    <div class="div_aligned div_box">
+    <div style="width: 30%; display:inline-block; vertical-align:middle; margin-right:3%; text-align:center;">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/nsdudf.png">
+    </div>
+    <div style="width: 67%; display:inline-block;"> 
+        <h3 style="text-align: left;"> Neural Surface Detection for Unsigned Distance Fields </h3>
+        <p>Federico Stella, <b>Nicolas Talabot</b>, Hieu Le, Pascal Fua</p>
+        <p><i>ECCV 2024</i></p>
+        <p><a href="https://ilceltico.github.io/nsdudf/">[Project]</a><a href="https://arxiv.org/abs/2407.18381">[arXiv]</a></p>
+        <!-- <p></p> -->
+        </div>
+    </div>
+</div>
+
+<div class="centered_div medium">
+    <hr class="hr_style_thin">
+</div>
+
 <!-- HybridSDF, 3DV 2022 -->
 <div class="div_text">
     <div class="div_aligned div_box">
@@ -47,10 +67,11 @@ layout: home
     </div>
 </div>
 
-<!-- AxoID, Nature Neuroscience 2022 -->
 <div class="centered_div medium">
     <hr class="hr_style_thin">
 </div>
+
+<!-- AxoID, Nature Neuroscience 2022 -->
 <div class="div_text">
     <div class="div_aligned">
     <div style="width: 30%; display:inline-block; vertical-align:middle; margin-right:3%;">

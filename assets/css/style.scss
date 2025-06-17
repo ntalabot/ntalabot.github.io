@@ -149,6 +149,31 @@ margin-top: 20px;
 margin-bottom: 20px;
 border-radius: 15px;
 }
+
+// My addition for publications
+.div_publication{
+  display: block;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align:justify;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-radius: 15px;
+}
+.div_pub_left{
+  width: 25%;
+  display: inline-block; 
+  vertical-align: middle; 
+  margin-right: 3%;
+  text-align: center;
+}
+.div_pub_right{
+  width: 72%;
+  display: inline-block; 
+  vertical-align: middle; 
+}
     
 .div_gray {
 background: #f1f1f1;

@@ -36,6 +36,21 @@ layout: home
     <hr class="hr_style_thin">
 </div> -->
 
+<!-- PartSDF, TMLR 2025 -->
+<div class="div_publication">
+    <div class="div_aligned div_box">
+    <div class="div_pub_left">
+        <img style="margin:5px; width:80%; border-radius:10px;" src="/projects/partsdf/images/drivaer_manip.gif">
+    </div>
+    <div class="div_pub_right">
+        <b>PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization</b><br>
+        <font_names><b>Nicolas Talabot</b>, Olivier Clerc, Arda C. Demirtas, Hieu Le, Doruk Oner, Pascal Fua<br>
+        <i>TMLR 2025</i>
+        <a href="/partsdf">[Project]</a> <a href="https://arxiv.org/abs/2502.12985">[arXiv]</a><br></font_names>
+        </div>
+    </div>
+</div>
+
 <!-- Iterative-UDF, NeurIPS 2025 -->
 <div class="div_publication">
     <div class="div_aligned div_box">
@@ -44,9 +59,9 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>High Resolution UDF Meshing via Iterative Networks</b><br>
-        Federico Stella, <b>Nicolas Talabot</b>, Hieu Le, Pascal Fua<br>
+        <font_names>Federico Stella, <b>Nicolas Talabot</b>, Hieu Le, Pascal Fua<br>
         <i>NeurIPS 2025</i>
-        <a href="https://arxiv.org/abs/2509.17212">[arXiv]</a><br>
+        <a href="https://arxiv.org/abs/2509.17212">[arXiv]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -60,9 +75,9 @@ layout: home
     </div>
     <div class="div_pub_right"> 
         <b>A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields</b><br>
-        Aoxiang Fan, Corentin Dumery, <b>Nicolas Talabot</b>, Pascal Fua<br>
+        <font_names>Aoxiang Fan, Corentin Dumery, <b>Nicolas Talabot</b>, Pascal Fua<br>
         <i>ICCV 2025</i>
-        <a href="https://aoxiangfan.github.io/projects/nerf_sampling/index.html">[Project]</a> <a href="https://arxiv.org/abs/2507.04408">[arXiv]</a><br>
+        <a href="https://aoxiangfan.github.io/projects/nerf_sampling/index.html">[Project]</a> <a href="https://arxiv.org/abs/2507.04408">[arXiv]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -76,9 +91,9 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling</b><br>
-        Hieu Le, Jingyi Xu, <b>Nicolas Talabot</b>, Jiancheng Yang, Pascal Fua<br>
+        <font_names>Hieu Le, Jingyi Xu, <b>Nicolas Talabot</b>, Jiancheng Yang, Pascal Fua<br>
         <i>MICCAI 2025</i>
-        <a href="https://arxiv.org/pdf/2307.08716">[arXiv]</a><br>
+        <a href="https://arxiv.org/pdf/2307.08716">[arXiv]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -92,9 +107,9 @@ layout: home
     </div>
     <div class="div_pub_right"> 
         <b>Enforcing View-Consistency in Class-Agnostic 3D Segmentation Fields</b><br>
-        Corentin Dumery, Aoxiang Fan, Ren Li, <b>Nicolas Talabot</b>, Pascal Fua<br>
+        <font_names>Corentin Dumery, Aoxiang Fan, Ren Li, <b>Nicolas Talabot</b>, Pascal Fua<br>
         <i>CVPRW 2025</i>
-        <a href="https://corentindumery.github.io/projects/disconerf.html">[Project]</a> <a href="https://arxiv.org/abs/2408.09928">[arXiv]</a> <a href="https://corentindumery.github.io/images/disconerf/CVPRW_DiscoNeRF_poster.pdf">[Poster]</a><br>
+        <a href="https://corentindumery.github.io/projects/disconerf.html">[Project]</a> <a href="https://arxiv.org/abs/2408.09928">[arXiv]</a> <a href="https://corentindumery.github.io/images/disconerf/CVPRW_DiscoNeRF_poster.pdf">[Poster]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -108,9 +123,9 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>Neural Surface Detection for Unsigned Distance Fields</b><br>
-        Federico Stella, <b>Nicolas Talabot</b>, Hieu Le, Pascal Fua<br>
+        <font_names>Federico Stella, <b>Nicolas Talabot</b>, Hieu Le, Pascal Fua<br>
         <i>ECCV 2024</i>
-        <a href="https://ilceltico.github.io/nsdudf/">[Project]</a> <a href="https://arxiv.org/abs/2407.18381">[arXiv]</a><br>
+        <a href="https://ilceltico.github.io/nsdudf/">[Project]</a> <a href="https://arxiv.org/abs/2407.18381">[arXiv]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -124,9 +139,9 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>Ascending neurons convey behavioral state to integrative sensory and action selection brain regions</b><br>
-        Chin-Lin Chen, Florian Aymanns, Ryo Minegishi, Victor D. V. Matsuda, <b>Nicolas Talabot</b>, Semih Günel, Barry J. Dickson, Pavan Ramdya<br>
+        <font_names>Chin-Lin Chen, Florian Aymanns, Ryo Minegishi, Victor D. V. Matsuda, <b>Nicolas Talabot</b>, Semih Günel, Barry J. Dickson, Pavan Ramdya<br>
         <i>Nature Neuroscience 2023</i>
-        <a href="https://www.nature.com/articles/s41593-023-01281-z">[Nature]</a> <a href="https://www.nature.com/articles/s41593-023-01281-z.pdf">[PDF]</a><br>
+        <a href="https://www.nature.com/articles/s41593-023-01281-z">[Nature]</a> <a href="https://www.nature.com/articles/s41593-023-01281-z.pdf">[PDF]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>
@@ -140,9 +155,9 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation</b><br>
-        Subeesh Vasu<sup>*</sup>, <b>Nicolas Talabot<sup>*</sup></b>, Artem Lukoianov, Pierre Baqué, Jonathan Donier, Pascal Fua<br>
+        <font_names>Subeesh Vasu<sup>*</sup>, <b>Nicolas Talabot<sup>*</sup></b>, Artem Lukoianov, Pierre Baqué, Jonathan Donier, Pascal Fua<br>
         <i>3DV 2022</i>
-        <a href="/hybridsdf">[Project]</a> <a href="https://arxiv.org/abs/2109.10767">[arXiv]</a> <a href="https://www.youtube.com/watch?v=vkMtn5Q446E&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=9">[Video]</a><br>
+        <a href="/hybridsdf">[Project]</a> <a href="https://arxiv.org/abs/2109.10767">[arXiv]</a> <a href="https://www.youtube.com/watch?v=vkMtn5Q446E&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=9">[Video]</a><br></font_names>
         <!-- <p>Deep implicit surfaces excel at modeling generic shapes but do not always capture the regularities present in manufactured objects, which is something simple geometric primitives are particularly good at. In this paper, we propose a representation combining latent and explicit parameters that can be decoded into a set of deep implicit and geometric shapes that are consistent with each other. As a result, we can effectively model both complex and highly regular shapes that coexist in manufactured objects. This enables our approach to manipulate 3D shapes in an efficient and precise manner.</p> -->
         </div>
     </div>

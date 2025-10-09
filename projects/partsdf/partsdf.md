@@ -34,7 +34,7 @@ permalink: /partsdf/
         <i class="ai ai-arxiv"></i> arXiv
     </a></div>
     <div class="div_rounded_corners"><a href="https://github.com/cvlab-epfl/PartSDF" style="color: #fdfdfd;">
-        <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code
+        <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> Code
     </a></div>
     <!-- <div class="div_rounded_corners"><a href="https://drive.google.com/file/d/1NtSLewlGysF2RgnXRsp2CfGmJQHzk3lV/view?usp=sharing" style="color: #fdfdfd;">
         <i class="fa-solid fa-folder fa-sm"></i> Data

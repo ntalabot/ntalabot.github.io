@@ -10,7 +10,8 @@ permalink: /partsdf/
     <a class="page-link" href="https://ntalabot.github.io/">Nicolas Talabot</a><sup>1</sup>, 
     Olivier Clerc<sup>1</sup>, 
     <a class="page-link" href="https://scholar.google.com/citations?user=cTJTLx8AAAAJ&hl=en">Arda Cinar Demirtas</a><sup>2</sup>, 
-    <a class="page-link" href="https://hieulem.github.io/">Hieu Le</a><sup>1,3</sup>,
+    <a class="page-link" href="https://scholar.google.com/citations?user=1z-81bQAAAAJ&hl=en">Alexis Goujon</a><sup>3</sup>, 
+    <a class="page-link" href="https://hieulem.github.io/">Hieu Le</a><sup>1,4</sup>,
     <a class="page-link" href="https://scholar.google.com/citations?user=ESA2CsAAAAAJ&hl=en">Doruk Oner</a><sup>2</sup>, 
     <a class="page-link" href="https://people.epfl.ch/pascal.fua?lang=en">Pascal Fua</a><sup>1</sup>
 </h2>
@@ -19,7 +20,8 @@ permalink: /partsdf/
     <div class="centered_div big">
         <div class="div_sidebyside"><sup>1</sup> CVLab, EPFL</div>
         <div class="div_sidebyside"><sup>2</sup> Bilkent University</div>
-        <div class="div_sidebyside; width:40%"><sup>3</sup> University of North Carolina at Charlotte</div>
+        <div class="div_sidebyside"><sup>3</sup> Neural Concept</div>
+        <div class="div_sidebyside; width:40%"><sup>4</sup> University of North Carolina at Charlotte</div>
     </div>
 </h3>
 

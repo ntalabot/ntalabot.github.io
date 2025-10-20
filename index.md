@@ -44,7 +44,7 @@ layout: home
     </div>
     <div class="div_pub_right">
         <b>PartSDF: Part-Based Implicit Neural Representation for Composite 3D Shape Parametrization and Optimization</b><br>
-        <font_names><b>Nicolas Talabot</b>, Olivier Clerc, Arda C. Demirtas, Hieu Le, Doruk Oner, Pascal Fua<br>
+        <font_names><b>Nicolas Talabot</b>, Olivier Clerc, Arda C. Demirtas, Alexis Goujon, Hieu Le, Doruk Oner, Pascal Fua<br>
         <i>TMLR 2025</i>
         <a href="/partsdf">[Project]</a> <a href="https://arxiv.org/abs/2502.12985">[arXiv]</a> <a href="https://github.com/cvlab-epfl/PartSDF">[Code]</a><br></font_names>
         </div>

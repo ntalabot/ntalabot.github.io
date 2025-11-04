@@ -38,7 +38,8 @@ permalink: /hybridsdf/
         <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>Code
     </p></div> -->
     <!-- <div class="div_rounded_corners"><a href="https://drive.google.com/file/d/1CIWm52a7CRSsRXi4ddcFvq4csOKAqQ2t/view?usp=sharing" style="color: #fdfdfd;"> -->  <!-- Old drive link -->
-    <div class="div_rounded_corners"><a href="https://drive.google.com/file/d/1NtSLewlGysF2RgnXRsp2CfGmJQHzk3lV/view?usp=sharing" style="color: #fdfdfd;">  <!-- PartSDF drive link -->
+    <!-- <div class="div_rounded_corners"><a href="https://drive.google.com/file/d/1NtSLewlGysF2RgnXRsp2CfGmJQHzk3lV/view?usp=sharing" style="color: #fdfdfd;"> -->  <!-- PartSDF drive link -->
+    <div class="div_rounded_corners"><a href="https://zenodo.org/records/17466765" style="color: #fdfdfd;">  <!-- PartSDF dataset link -->
         <i class="fa-solid fa-folder fa-sm"></i> Data
     </a></div>
     <div class="div_rounded_corners"><a href="https://www.youtube.com/watch?v=vkMtn5Q446E&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=9" style="color: #fdfdfd;">

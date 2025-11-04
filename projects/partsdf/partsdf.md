@@ -38,9 +38,9 @@ permalink: /partsdf/
     <div class="div_rounded_corners"><a href="https://github.com/cvlab-epfl/PartSDF" style="color: #fdfdfd;">
         <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> Code
     </a></div>
-    <!-- <div class="div_rounded_corners"><a href="https://drive.google.com/file/d/1NtSLewlGysF2RgnXRsp2CfGmJQHzk3lV/view?usp=sharing" style="color: #fdfdfd;">
+    <div class="div_rounded_corners"><a href="https://zenodo.org/records/17466765" style="color: #fdfdfd;">
         <i class="fa-solid fa-folder fa-sm"></i> Data
-    </a></div> -->
+    </a></div>
     <!-- <div class="div_rounded_corners"><a href="https://www.youtube.com/watch?v=vkMtn5Q446E&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=9" style="color: #fdfdfd;">
         <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg>Video
     </a></div> -->

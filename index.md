@@ -14,7 +14,7 @@ layout: home
     </div>
     <div class="split rightmore">
         <p>
-            Hi! I'm Nicolas, a PhD student in <a href="http://cvlab.epfl.ch">CVLab</a>, EPFL, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a>.
+            Hi! I'm Nicolas, a finishing PhD student in <a href="http://cvlab.epfl.ch">CVLab</a>, EPFL, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a>.
             I mostly work on deep learning for 3D shape representation, with a focus on its application to shape design and optimization.
         </p>
         <p>
@@ -35,6 +35,21 @@ layout: home
 <!-- <div class="centered_div medium">
     <hr class="hr_style_thin">
 </div> -->
+
+<!-- S2MDF, ArXiv 2026 -->
+<div class="div_publication">
+    <div class="div_aligned div_box">
+    <div class="div_pub_left">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/s2mdf.png">
+    </div>
+    <div class="div_pub_right">
+        <b>S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields</b><br>
+        <font_names>Deniz S. Mercadier<sup>*</sup>, Federico Stella<sup>*</sup>, Aurel Bizeau, <b>Nicolas Talabot</b>, Pascal Fua<br>
+        <i>Preprint: ArXiv 2026</i>
+        <a href="https://arxiv.org/abs/2605.29761">[arXiv]</a><br></font_names>
+        </div>
+    </div>
+</div>
 
 <!-- PartSDF, TMLR 2025 -->
 <div class="div_publication">
@@ -87,7 +102,7 @@ layout: home
 <div class="div_publication">
     <div class="div_aligned div_box">
     <div class="div_pub_left">
-        <img style="margin:5px; width:80%; border-radius:10px;" src="/assets/images/pairwise-sdf.png">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/pairwise-sdf.png">
     </div>
     <div class="div_pub_right">
         <b>Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling</b><br>
@@ -103,7 +118,7 @@ layout: home
 <div class="div_publication">
     <div class="div_aligned div_box">
     <div class="div_pub_left">
-        <img style="margin:5px; width:60%; border-radius:10px;" src="/assets/images/disconerf.png">
+        <img style="margin:5px; width:50%; border-radius:10px;" src="/assets/images/disconerf.png">
     </div>
     <div class="div_pub_right"> 
         <b>Enforcing View-Consistency in Class-Agnostic 3D Segmentation Fields</b><br>

@@ -1,9 +1,9 @@
 title: Nicolas Talabot
 author:
   name: Nicolas Talabot
-  email: nicolas.talabot@epfl.ch
+  # email: nicolas.talabot@epfl.ch
 description: > # this means to ignore newlines until "show_excerpts:"
-  PhD student at CVLab, EPFL.
+  Finishing PhD student at CVLab, EPFL.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

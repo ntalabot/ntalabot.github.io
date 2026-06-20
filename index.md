@@ -45,8 +45,23 @@ layout: home
     <div class="div_pub_right">
         <b>S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields</b><br>
         <font_names>Deniz S. Mercadier<sup>*</sup>, Federico Stella<sup>*</sup>, Aurel Bizeau, <b>Nicolas Talabot</b>, Pascal Fua<br>
-        <i>Preprint: ArXiv 2026</i>
+        <i>(Preprint) 2026</i>
         <a href="https://arxiv.org/abs/2605.29761">[arXiv]</a><br></font_names>
+        </div>
+    </div>
+</div>
+
+<!-- SVRecon, ArXiv 2026 -->
+<div class="div_publication">
+    <div class="div_aligned div_box">
+    <div class="div_pub_left">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/svrecon.png">
+    </div>
+    <div class="div_pub_right">
+        <b>Generalizable Neural Reconstruction of High-Fidelity Surfaces via Sparse Volumetric Representations</b><br>
+        <font_names>Aoxiang Fan, Corentin Dumery, <b>Nicolas Talabot</b>, Ming Xu, Hieu Le, Pascal Fua<br>
+        <i>ECCV 2026</i>
+        <a href="https://arxiv.org/pdf/2507.05952">[arXiv]</a><br></font_names>
         </div>
     </div>
 </div>

@@ -61,7 +61,7 @@ layout: home
         <b>Generalizable Neural Reconstruction of High-Fidelity Surfaces via Sparse Volumetric Representations</b><br>
         <font_names>Aoxiang Fan, Corentin Dumery, <b>Nicolas Talabot</b>, Ming Xu, Hieu Le, Pascal Fua<br>
         <i>ECCV 2026</i>
-        <a href="https://arxiv.org/pdf/2507.05952">[arXiv]</a><br></font_names>
+        <a href="https://arxiv.org/abs/2507.05952">[arXiv]</a><br></font_names>
         </div>
     </div>
 </div>
@@ -123,7 +123,7 @@ layout: home
         <b>Pairwise-Constrained Implicit Functions for 3D Human Heart Modeling</b><br>
         <font_names>Hieu Le, Jingyi Xu, <b>Nicolas Talabot</b>, Jiancheng Yang, Pascal Fua<br>
         <i>MICCAI 2025</i>
-        <a href="https://arxiv.org/pdf/2307.08716">[arXiv]</a><br></font_names>
+        <a href="https://arxiv.org/abs/2307.08716">[arXiv]</a><br></font_names>
         <!-- <p></p> -->
         </div>
     </div>

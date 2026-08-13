@@ -36,6 +36,21 @@ layout: home
     <hr class="hr_style_thin">
 </div> -->
 
+<!-- FCSO, ArXiv 2026 -->
+<div class="div_publication">
+    <div class="div_aligned div_box">
+    <div class="div_pub_left">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/fcso.png">
+    </div>
+    <div class="div_pub_right">
+        <b>Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models</b><br>
+        <font_names>Emilien Seiler, <b>Nicolas Talabot</b>, Yingxuan You, Federico Stella, Pascal Fua<br>
+        <i>(Preprint) 2026</i>
+        <a href="https://arxiv.org/abs/2608.07199">[arXiv]</a><br></font_names>
+        </div>
+    </div>
+</div>
+
 <!-- S2MDF, ArXiv 2026 -->
 <div class="div_publication">
     <div class="div_aligned div_box">
@@ -51,7 +66,7 @@ layout: home
     </div>
 </div>
 
-<!-- SVRecon, ArXiv 2026 -->
+<!-- SVRecon, ECCV 2026 -->
 <div class="div_publication">
     <div class="div_aligned div_box">
     <div class="div_pub_left">

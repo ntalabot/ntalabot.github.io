@@ -14,14 +14,14 @@ layout: home
     </div>
     <div class="split rightmore">
         <p>
-            Hi! I'm Nicolas, a finishing PhD student in <a href="http://cvlab.epfl.ch">CVLab</a>, EPFL, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a>.
-            I mostly work on deep learning for 3D shape representation, with a focus on its application to shape design and optimization.
+            Hi! I'm Nicolas, a recent PhD graduate from <a href="http://cvlab.epfl.ch">CVLab</a>, EPFL, supervised by Prof. <a href="https://people.epfl.ch/pascal.fua/bio?lang=en">Pascal Fua</a>.
+            I have mostly worked on deep learning for 3D shape representation, with a focus on its application to shape design and optimization.
         </p>
         <p>
             Before this, I did my Bachelor and Master degrees at EPFL, taking courses and projects related to robotics, computer vision, machine learning and deep learning.
         </p>
         <p>
-            You can check my EPFL <a href="https://people.epfl.ch/nicolas.talabot?lang=en">page</a>, or Google <a href="https://scholar.google.com/citations?user=f2LbcbAAAAAJ&hl=en">scholar</a>.
+            You can check my up-to-date publication list on Google <a href="https://scholar.google.com/citations?user=f2LbcbAAAAAJ&hl=en">scholar</a>.
         </p>
     </div>
 </div>
@@ -36,7 +36,7 @@ layout: home
     <hr class="hr_style_thin">
 </div> -->
 
-<!-- FCSO, ArXiv 2026 -->
+<!-- FCSO, NeurIPS 2026 -->
 <div class="div_publication">
     <div class="div_aligned div_box">
     <div class="div_pub_left">
@@ -45,13 +45,13 @@ layout: home
     <div class="div_pub_right">
         <b>Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models</b><br>
         <font_names>Emilien Seiler, <b>Nicolas Talabot</b>, Yingxuan You, Federico Stella, Pascal Fua<br>
-        <i>(Preprint) 2026</i>
+        <i>NeurIPS 2026</i>
         <a href="https://arxiv.org/abs/2608.07199">[arXiv]</a><br></font_names>
         </div>
     </div>
 </div>
 
-<!-- S2MDF, ArXiv 2026 -->
+<!-- S2MDF, NeurIPS 2026 -->
 <div class="div_publication">
     <div class="div_aligned div_box">
     <div class="div_pub_left">
@@ -60,8 +60,23 @@ layout: home
     <div class="div_pub_right">
         <b>S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields</b><br>
         <font_names>Deniz S. Mercadier<sup>*</sup>, Federico Stella<sup>*</sup>, Aurel Bizeau, <b>Nicolas Talabot</b>, Pascal Fua<br>
-        <i>(Preprint) 2026</i>
+        <i>NeurIPS 2026</i>
         <a href="https://arxiv.org/abs/2605.29761">[arXiv]</a><br></font_names>
+        </div>
+    </div>
+</div>
+
+<!-- S2SMVS, NeurIPS 2026 -->
+<div class="div_publication">
+    <div class="div_aligned div_box">
+    <div class="div_pub_left">
+        <img style="margin:5px; width:100%; border-radius:10px;" src="/assets/images/s2smvs.png">
+    </div>
+    <div class="div_pub_right">
+        <b>Revisiting Multi-View Stereo: A Sequence-to-Sequence Formulation</b><br>
+        <font_names>Aoxiang Fan, Corentin Dumery, <b>Nicolas Talabot</b>, Pascal Fua<br>
+        <i>NeurIPS 2026</i>
+        <a href="https://arxiv.org/abs/2609.24850">[arXiv]</a><br></font_names>
         </div>
     </div>
 </div>
